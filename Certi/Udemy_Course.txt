@@ -12,3 +12,6 @@ https://www.udemy.com/certificate/UC-6551e7c3-98b0-438a-9158-f57e9b8df106/
 
 **Introduction To Fiber Optic Cabling
 https://www.udemy.com/certificate/UC-38d885e7-123d-44f5-be52-c18755051d7c/
+
+**Build a Backend REST API with Python & Django - Beginner
+https://www.udemy.com/certificat/UC-aab445af-a83e-4156-b133-f42b611089ff/
