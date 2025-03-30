@@ -1,2 +1,2 @@
 # My-Code
-Projects and Code and Certificates
+Projects, Code and Certificates
