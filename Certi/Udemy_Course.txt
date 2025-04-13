@@ -15,3 +15,6 @@ https://www.udemy.com/certificate/UC-38d885e7-123d-44f5-be52-c18755051d7c/
 
 **Build a Backend REST API with Python & Django - Beginner
 https://www.udemy.com/certificat/UC-aab445af-a83e-4156-b133-f42b611089ff/
+
+**resumeItem { Python (Basic) Certificate By HackerRank
+https://www.hackerrank.com/certificates/cece6c3fdb38
